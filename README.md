@@ -10,4 +10,4 @@ I'm a software engineering student, with great interest in web development and m
 - <a href="https://www.linkedin.com/in/steffany-naranjo-vargas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 # The TOP :star: :sparkles:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffanynaranjov&layout=compact)](https://github.com/steffanynaranjov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffanynaranjov&langs_count=8)](https://github.com/steffanynaranjov/github-readme-stats)
