@@ -1,4 +1,4 @@
-# Hi, I'am Steffany :hand: :computer:  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'am Steffany :computer:  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <img src="https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition.jpeg">
 
