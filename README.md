@@ -20,4 +20,7 @@ I'm a full stack software developer, with great interest in front-end developmen
 # The TOP :star: :sparkles:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffanynaranjov&langs_count=8)](https://github.com/steffanynaranjov/github-readme-stats)
 
+# Github Stats :octocat: :chart_with_upwards_trend:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steffanynaranjov&show_icons=true&include_all_commits=true)
+
 
